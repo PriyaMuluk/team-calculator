@@ -19,3 +19,4 @@ python main.py
 ---
 ## Contributors:
 - Priya Muluk
+- Puja Rajput
