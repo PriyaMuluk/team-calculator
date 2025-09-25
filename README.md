@@ -1,6 +1,7 @@
 # Team Calculator Project
 
 A collaborative Python project demonstrating Git workflow with branching, merging, and tagging. The project includes a simple calculator with basic and advanced operations and a command-line interface.
+Added Tags For Collaborative Environment.
 
 ## Features
 - **Basic Operations:** Add, Subtract, Multiply, Divide
