@@ -14,3 +14,8 @@ A collaborative Python project demonstrating Git workflow with branching, mergin
 git clone <repository-url>
 cd team-calculator
 python main.py
+```
+
+---
+## Contributors:
+- Priya Muluk
